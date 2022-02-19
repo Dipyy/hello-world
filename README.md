@@ -1,4 +1,4 @@
 # hello-world
-it's my first project in github. This is a test
-
-I wanna study english because my english is very bad :P
+Ok, that is my first repository in github
+I want to make projects and learn in the way
+I dont know what to say, so, i hope in a brief future can make big projects and improve my english
